@@ -31,10 +31,10 @@ Dash is running on http://127.0.0.1:2071/
 
 ## Estructura
 
-├── app.py              # Aplicación principal
-├── bomberos.csv        # Dataset de intervenciones
-├── requirements.txt    # Dependencias del proyecto
-└── README.md          # Este archivo, con instrucciones de instalación
+─ app.py              # Aplicación principal
+─ bomberos.csv        # Dataset de intervenciones
+─ requirements.txt    # Dependencias del proyecto
+─ README.md          # Este archivo, con instrucciones de instalación
 
 ## Fuente de datos
 
